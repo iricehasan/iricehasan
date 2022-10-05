@@ -23,7 +23,7 @@ Welcome to my profile! Enter freely. Go safely, and leave something of the happi
 - 🔭 &nbsp;I’m currently working on something cool.
 - 🌱 &nbsp;I’m currently learning Power BI, Tableau
 - 👨‍💻 &nbsp;Read more about my projects.
-- ⚡ &nbsp;Fun fact: I :like ancient languages(Latin and Ancient Greek) and classical music.
+- ⚡ &nbsp;Fun fact: I like ancient languages(Latin and Ancient Greek) and classical music.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
