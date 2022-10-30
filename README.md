@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Welcome to my profile! Enter freely. Go safely, and leave something of the happiness you bring.
 
 - 🔭 &nbsp;I’m currently working on something cool.
-- 🌱 &nbsp;I’m currently learning Power BI, Tableau
+- 🌱 &nbsp;Tableau<a href="https://public.tableau.com/app/profile/hasan2714">
 - 👨‍💻 &nbsp;Read more about my projects.
 - ⚡ &nbsp;Fun fact: I like ancient languages(Latin and Ancient Greek) and classical music.
 
