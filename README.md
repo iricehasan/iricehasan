@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Welcome to my profile! Enter freely. Go safely, and leave something of the happiness you bring.
 
 - 🔭 &nbsp;I’m currently working on something cool.
-- 🌱 &nbsp;For Visualizations: <a href="https://public.tableau.com/app/profile/hasan2714" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="iricehasan" height="40" width="50" /></a>
+- 🌱 &nbsp;For Visualizations: <a href="https://public.tableau.com/app/profile/hasan2714" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="iricehasan" height="100" width="100" /></a>
 - 👨‍💻 &nbsp;Read more about my projects.
 - ⚡ &nbsp;Fun fact: I like ancient languages(Latin and Ancient Greek) and classical music.
 
