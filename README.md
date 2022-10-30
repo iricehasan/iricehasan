@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Welcome to my profile! Enter freely. Go safely, and leave something of the happiness you bring.
 
 - 🔭 &nbsp;I’m currently working on something cool.
