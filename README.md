@@ -23,7 +23,7 @@ Welcome to my profile! Enter freely. Go safely, and leave something of the happi
 - 🔭 &nbsp;I’m currently working on 
 - [Data Cleaning Portfolio Project](https://github.com/iricehasan/Portfolio-Projects/blob/main/Data%20Cleaning%20Portfolio%20Project.sql) 
 - [Bike Share Case Study](https://github.com/iricehasan/Portfolio-Projects/blob/main/bike_share_findings.pdf)
-- 🌱 &nbsp;For Visualizations: <a href="https://public.tableau.com/app/profile/hasan2714" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="iricehasan" height="100" width="100" /></a>
+- 🌱 &nbsp;For Visualizations: <a href="https://public.tableau.com/app/profile/hasan2714" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="iricehasan" height="100" width="100" /></a> [Tableau](https://public.tableau.com/app/profile/hasan2714)
 - 👨‍💻 &nbsp;Read more about my projects: [Portfolio-Projects](https://github.com/iricehasan/Portfolio-Projects)
 - ⚡ &nbsp;Fun fact: I like ancient languages(Latin and Ancient Greek) and classical music.
 
